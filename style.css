@@ -1,0 +1,135 @@
+.Home li{
+list-style: none;
+}
+.Home{
+    display: flex;
+    margin-left: 20%;
+    gap: 5%;
+    margin-right: 20%;
+}
+.landingpage{
+    background-color: purple;
+    display: flex;
+}
+#weekly{
+    text-align: center;
+}
+#tops{
+    margin-left: 50px;
+}
+#image{
+    width: 30%;
+    height: 20%;
+}
+/* #clothe{
+    width: 3%;
+    height: 1%;
+} */
+.dresses{
+    display: flex;
+    gap: 10%;
+}
+#view{
+    padding: 10px 30px 10px 30px;
+    border-radius: 3%;
+    border-style: none;
+    background-color: palevioletred;
+    color: white;
+
+}
+#h{
+    text-align: center;
+}
+.welcome{
+text-align: center;
+margin-top: 20%;
+}
+.welcome h3 {
+    color: grey;
+    font-weight: bolder;
+}
+.welcome h4{
+    color: grey;
+    font-weight: bolder; 
+}
+#label{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#casual{
+  width: 100%;
+}
+#icon{
+    width: 70px;
+    height: 50px;
+}
+#icon2{
+    width: 50px;
+    height: 20px;
+    margin-bottom:10px;
+}
+#email{
+    padding: 10px 80px 10px 30px;
+    border-style: none;
+}
+#sub{
+    padding: 10px 50px 10px 70px;
+    border-style: none; 
+    background-color: rgb(201, 55, 79);
+}
+.gym{
+    background-image: url(./IMAGES/gym.jpeg);
+    padding: 20% 20% 20% 20%;
+    background-repeat: no-repeat;
+}
+.heels{
+    background-image: url(./IMAGES/heels.jpg);
+    padding: 8% 8% 8% 8%;
+    width: 40%;
+    height: 0%;
+    margin-left: -10%;
+    background-repeat: no-repeat;
+}
+#new{
+    padding: 5px 5px 5px 5px;
+    border-style: none; 
+    background-color: rgb(201, 55, 79);
+}
+.shoes{
+    padding: 20% 5% 20% 5%;
+    background-image: url(./IMAGES/girl7.png);
+    background-repeat: no-repeat;
+    width: 40%;
+    height: 100%;
+    margin-top: -22%;
+    float: right;
+    margin-left: -30%;
+    margin-right: 13%;
+  
+}
+.all{
+    display: flex;
+   
+}
+.footer{
+    display:flex;
+    gap: 10%;
+}
+.footer1{
+    gap: 10%;
+}
+.footer1 h4{
+    color: grey;
+    font-weight: bolder;
+}
+.footer2 h4,
+.footer3 h4,
+.footer4 h4{
+    color: grey;
+    font-weight: bolder;
+}
+
+#about{
+   
+    font-weight: bolder;
+}
